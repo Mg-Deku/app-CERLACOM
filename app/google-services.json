@@ -12,7 +12,20 @@
           "package_name": "com.miguel.app_cerlacom"
         }
       },
-      "oauth_client": [],
+      "oauth_client": [
+        {
+          "client_id": "68202810919-me6njfl0m088c6h8a7e5rks9fo7o2j0m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.miguel.app_cerlacom",
+            "certificate_hash": "46d5c8949850422d7e4e40e05580dc0364e689c8"
+          }
+        },
+        {
+          "client_id": "68202810919-ma1dkthtp2fcn9cil17m7kei941jfq9o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
       "api_key": [
         {
           "current_key": "AIzaSyCcbDmMg7Dl-Dte1gOIXuZpz6w-fny4xR4"
@@ -20,7 +33,12 @@
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": []
+          "other_platform_oauth_client": [
+            {
+              "client_id": "68202810919-ma1dkthtp2fcn9cil17m7kei941jfq9o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         }
       }
     }
