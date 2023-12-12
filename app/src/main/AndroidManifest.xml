@@ -13,6 +13,9 @@
         android:theme="@style/Theme.AppCERLACOM"
         tools:targetApi="34">
         <activity
+            android:name=".Principal"
+            android:exported="false" />
+        <activity
             android:name=".Registro"
             android:exported="false" />
         <activity
